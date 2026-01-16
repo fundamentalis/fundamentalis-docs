@@ -14,7 +14,7 @@ The goal is to ensure:
 
 All commit messages must follow this structure:
 
-<type>(<scope>): <short summary>
+`<type>(<scope>): <short summary>`
 
 [optional body]
 
