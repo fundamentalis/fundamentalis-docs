@@ -21,11 +21,12 @@ This repository **does not contain application code**.
 
 ## Repository Structure
 
+```
 fundamentalis-docs/
 ├── domain/
 ├── standards/
 └── diagrams/
-
+```
 ---
 
 ## Domain
